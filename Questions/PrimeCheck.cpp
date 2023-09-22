@@ -1,3 +1,4 @@
+//prime check question given in week 1 connect and h.w.
 #include <iostream>
 using namespace std;
 int main() {
